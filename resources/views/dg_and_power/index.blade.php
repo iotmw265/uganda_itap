@@ -8,14 +8,14 @@
 
 
     <div class="row">
-    <h2 style="text-transform: capitalize;color:white; text-align:center;border-radius:10px; background-color: #e7313f !important;padding-top:20px;padding-bottom:20px;">HEADQUARTERS DATA CENTER - POWER STATUS</h2>
+    <h2 style="text-transform: capitalize;color:white; text-align:center;border-radius:10px; background-color: #1E73BE !important;padding-top:20px;padding-bottom:20px;">HEADQUARTERS DATA CENTER - POWER STATUS</h2>
 
     <div class='row'>
             <!--div class='col-lg-1'></div-->
            
             <div class="col-lg-4">
                 <div class="ibox">
-                    <div class="ibox-content no-borders" style="background-color: #ffffff; border-radius:15px !important; border: 3px solid #e7313f !important; padding-bottom:5px">
+                    <div class="ibox-content no-borders" style="background-color: #ffffff; border-radius:15px !important; border: 3px solid #1E73BE !important; padding-bottom:5px">
                         <div class="row">
                             <div class="col-lg-12">
                                 <!--h4 style="text-align: center;color: #000000;font-size: 18px;">NBS Coms. Rack</h4-->
@@ -91,7 +91,7 @@
             </div>
             <div class="col-lg-4">
                 <div class="ibox">
-                    <div class="ibox-content no-borders" style="background-color: #ffffff; border-radius:15px !important; border: 3px solid #e7313f !important; padding-bottom:5px">
+                    <div class="ibox-content no-borders" style="background-color: #ffffff; border-radius:15px !important; border: 3px solid #1E73BE !important; padding-bottom:5px">
                         <div class="row">
                             <div class="col-lg-12">
                                 <!--h4 style="text-align: center;color: #000000;font-size: 18px;">NBS Coms. Rack</h4-->
@@ -168,7 +168,7 @@
 
             <div class="col-lg-4">
                 <div class="ibox">
-                    <div class="ibox-content no-borders" style="background-color: #ffffff; border-radius:15px !important; border: 3px solid #e7313f !important; padding-bottom:5px">
+                    <div class="ibox-content no-borders" style="background-color: #ffffff; border-radius:15px !important; border: 3px solid #1E73BE !important; padding-bottom:5px">
                         <div class="row">
                             <div class="col-lg-12">
                                 <!--h4 style="text-align: center;color: #000000;font-size: 18px;">NBS Coms. Rack</h4-->

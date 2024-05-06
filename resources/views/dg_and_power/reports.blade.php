@@ -13,7 +13,7 @@
 }
 </style>
 
-<div class="row wrapper border-bottom page-heading" style='background-color: #e7313f;' >
+<div class="row wrapper border-bottom page-heading" style='background-color: #1E73BE;' >
     <div class="col-lg-10">
         <h2 style='color: #ffffff;'><strong>Reports - UPS Power State</strong></h2>
     </div>

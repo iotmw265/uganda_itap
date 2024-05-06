@@ -18,8 +18,9 @@
 
 <body class="gray-bg">
 
-    <div class="middle-box text-center loginscreen animated fadeInDown">
-        <div>
+
+<div class="max-w-6xxl mx-auto sm:px-6 lg:px-6">
+                <div class="flex justify-center pt-8 sm:justify-start sm:pt-0">
             <div>
 
                 <h1 class="logo-name"><img alt="image" class="img-lg" src="img/logo.png"></h1>

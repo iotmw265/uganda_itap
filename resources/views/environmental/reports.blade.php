@@ -13,7 +13,7 @@
 }
 </style>
 
-<div class="row wrapper border-bottom page-heading" style='background-color: #e7313f;' >
+<div class="row wrapper border-bottom page-heading" style='background-color: #1E73BE;' >
     <div class="col-lg-10">
         <h2 style='color:#ffffff;'><strong>Reports - Headquarters Data Center</strong></h2>
     </div>
@@ -40,7 +40,7 @@
                 </div-->
                 <div class="col-lg-3">
                     <div class="form-group" id="data_1">
-                        <label class="font-normal" style='color: #e7313f '><strong>Select From Date</strong></label>
+                        <label class="font-normal" style='color: #1E73BE '><strong>Select From Date</strong></label>
                         <div class="input-group date" data-provide="datepicker">
                             <input type="text" class="form-control" id="from_date" value=" <?= date("m/d/Y") ?>">
                             <div class="input-group-addon">
@@ -52,7 +52,7 @@
 
                 <div class="col-lg-3">
                     <div class="form-group" id="data_1">
-                        <label class="font-normal"  style='color: #e7313f '><strong>Select To Date</strong></label>
+                        <label class="font-normal"  style='color: #1E73BE '><strong>Select To Date</strong></label>
                         <div class="input-group date" data-provide="datepicker">
                             <input type="text" class="form-control" id="to_date" value=" <?= date("m/d/Y") ?>">
                             <div class="input-group-addon">
@@ -66,7 +66,7 @@
                         <label class="font-normal" style="color:white"></label>
                         <div class="input-group">
 
-                            <input type="button" name="filter" id="filter" value="Generate" style='background-color: #e7313f !important; border-color: #e7313f' class="btn btn-info" />
+                            <input type="button" name="filter" id="filter" value="Generate" style='background-color: #1E73BE !important; border-color: #1E73BE' class="btn btn-info" />
                             <!--input type="button" id="downloadExcel" value="Export" class="btn btn-info" style='margin-left:20px;' formaction="toexcel.php" /-->
 
                         </div>

@@ -54,7 +54,7 @@ h3, h4, h5 {
 }
 
 .navbar-default .nav > li > a:hover, .navbar-default .nav > li > a:focus {
-  background-color: #e7313f;
+  background-color: #1E73BE;
   color: white;
 }
 
@@ -207,7 +207,7 @@ ul.nav-second-level {
 
 .nav > li.active {
   border-left: 4px solid #244183;
-  background: #e7313f !important;
+  background: #1E73BE !important;
 }
 
 .nav > li.active > ul {
@@ -223,7 +223,7 @@ ul.nav-second-level {
 
 .nav.nav-second-level > li.active {
   border: none;
-  background-color: #e7313f;
+  background-color: #1E73BE;
 }
 
 .nav.nav-second-level.collapse[style] {
